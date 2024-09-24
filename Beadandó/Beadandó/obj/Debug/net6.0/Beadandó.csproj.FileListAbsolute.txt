@@ -1,0 +1,15 @@
+C:\Users\szabo\source\repos\Beadandó\Beadandó\bin\Debug\net6.0\Beadandó.exe
+C:\Users\szabo\source\repos\Beadandó\Beadandó\bin\Debug\net6.0\Beadandó.deps.json
+C:\Users\szabo\source\repos\Beadandó\Beadandó\bin\Debug\net6.0\Beadandó.runtimeconfig.json
+C:\Users\szabo\source\repos\Beadandó\Beadandó\bin\Debug\net6.0\Beadandó.dll
+C:\Users\szabo\source\repos\Beadandó\Beadandó\bin\Debug\net6.0\Beadandó.pdb
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.csproj.AssemblyReference.cache
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.AssemblyInfoInputs.cache
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.AssemblyInfo.cs
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.csproj.CoreCompileInputs.cache
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.dll
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\refint\Beadandó.dll
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.pdb
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\Beadandó.genruntimeconfig.cache
+C:\Users\szabo\source\repos\Beadandó\Beadandó\obj\Debug\net6.0\ref\Beadandó.dll
